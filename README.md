@@ -21,37 +21,32 @@ pip (Python package installer)
 Clone the repository:
 
 ```bash
-Copy code
 git clone https://github.com/Shutchon/BasicPythonProgramming.git
-cd python-basics-tutorial
-(Optional) Create and activate a virtual environment:
 ```
-bash
-Copy code
-python -m venv env
-source env/bin/activate  # On Windows, use `env\Scripts\activate`
-Install the required packages:
 
-bash
-Copy code
+## Install the required packages: ##
+
+```bash
 pip install -r requirements.txt
-Usage
+```
+
 Navigate through the directories and explore the examples and exercises. Each directory contains a README file explaining the concepts and providing code samples.
 
 To run a Python file, use:
 
-bash
-Copy code
+```bash
 python <filename>.py
+```
+
 Feel free to modify the examples and experiment with the code!
 
-Contributing
+## Contributing ##
 Contributions are welcome! If you have suggestions for improvements or new topics to cover, please open an issue or submit a pull request. Please see the CONTRIBUTING file for more details.
 
-License
+## License ##
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact ##
 For any questions or feedback, please reach out to shutchon.pr@rmuti.ac.th.
 
 Happy coding!
