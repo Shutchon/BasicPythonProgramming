@@ -11,6 +11,8 @@ Usage
 Contributing
 License
 Contact
+
+
 Introduction
 This tutorial project is aimed at newcomers to programming and those who want to learn Python from scratch. It covers the basics of Python, including syntax, data types, control structures, functions, and more. Each section includes examples and exercises to reinforce learning.
 
@@ -59,6 +61,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or feedback, please reach out to your-shutchon.pr@rmuti.ac.th.
+For any questions or feedback, please reach out to shutchon.pr@rmuti.ac.th.
 
 Happy coding!
