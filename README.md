@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/python-basics-tutorial.git
+git clone https://github.com/Shutchon/BasicPythonProgramming.git
 cd python-basics-tutorial
 (Optional) Create and activate a virtual environment:
 
