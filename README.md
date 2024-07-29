@@ -1,19 +1,9 @@
 Python Programming Basics Tutorial
 Welcome to the Python Programming Basics Tutorial! This project is designed to help beginners learn the fundamentals of Python programming through hands-on examples and exercises.
 
-Table of Contents
-Introduction
-Getting Started
-Project Structure
-Requirements
-Installation
-Usage
-Contributing
-License
-Contact
 
 
-Introduction
+## Introduction ##
 This tutorial project is aimed at newcomers to programming and those who want to learn Python from scratch. It covers the basics of Python, including syntax, data types, control structures, functions, and more. Each section includes examples and exercises to reinforce learning.
 
 Getting Started
