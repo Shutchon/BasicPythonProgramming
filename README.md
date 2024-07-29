@@ -6,25 +6,26 @@ Welcome to the Python Programming Basics Tutorial! This project is designed to h
 ## Introduction ##
 This tutorial project is aimed at newcomers to programming and those who want to learn Python from scratch. It covers the basics of Python, including syntax, data types, control structures, functions, and more. Each section includes examples and exercises to reinforce learning.
 
-Getting Started
+## Getting Started ##
 To get started, you can clone the repository and follow the instructions below to set up your environment.
 
-Project Structure
+## Project Structure ##
 The project is organized into the following directories.
 
 
-Requirements
+## Requirements ##
 Python 3.x
 pip (Python package installer)
-Installation
+
+## Installation ##
 Clone the repository:
 
-bash
+```bash
 Copy code
 git clone https://github.com/Shutchon/BasicPythonProgramming.git
 cd python-basics-tutorial
 (Optional) Create and activate a virtual environment:
-
+```
 bash
 Copy code
 python -m venv env
