@@ -38,7 +38,7 @@ To run a Python file, use:
 python <filename>.py
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2f9iaM1gE8?si=2RuR6CHov_cWcGHf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Title](https://i9.ytimg.com/vi_webp/H2f9iaM1gE8/mq2.webp?sqp=CJSJm74G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgUih_MA8=&rs=AOn4CLAXdOaACTT62hbwantPbuphYeBENA)](https://www.youtube.com/watch?v=H2f9iaM1gE8)
 
 Feel free to modify the examples and experiment with the code!
 
